@@ -1,0 +1,131 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Apple Inc.
+ORG:Apple Inc.;
+EMAIL;type=INTERNET;type=pref:noreply@insideicloud.icloud.com
+EMAIL;type=INTERNET:developer@insideapple.apple.com
+TEL;type=pref:1-800-MY-APPLE
+ADR;type=WORK;type=pref:;;1 Infinite Loop;Cupertino;CA;95014;United States
+item1.URL;type=pref:http://www.apple.com
+item1.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+X-ABUID:2EAB3F90-2424-44CE-8C80-0AE2665A1E13:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Axis
+ORG:Axis;
+item1.EMAIL;type=INTERNET;type=pref:noreply@pivotalenergysolutions.com
+item1.X-ABLabel:Production
+X-ABShowAs:COMPANY
+X-ABUID:C27B208B-36AF-4E3F-89F5-1311D35F42B7:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Best Buy Reward Zone
+ORG:Best Buy Reward Zone;
+EMAIL;type=INTERNET;type=pref:alerts@ebusiness.partnercardservices.com
+X-ABShowAs:COMPANY
+X-ABUID:F3D13CE4-F5BC-4C75-99BA-20E6C73EC271:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Capital One
+ORG:Capital One;
+EMAIL;type=INTERNET;type=pref:capitalone@email.capitalone.com
+X-ABShowAs:COMPANY
+X-ABUID:0782342D-54BF-4775-AC86-805CDA431CDA:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Cox Communications
+ORG:Cox Communications;
+EMAIL;type=INTERNET;type=pref:phoenix.services@cox.com
+X-ABShowAs:COMPANY
+X-ABUID:29F119A9-FF06-463B-B1B3-E94D9386795B:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:GitHub
+ORG:GitHub;
+EMAIL;type=INTERNET;type=pref:axis@noreply.github.com
+EMAIL;type=INTERNET:notifications@github.com
+EMAIL;type=INTERNET:noreply@github.com
+X-ABShowAs:COMPANY
+X-ABUID:0B44999D-AA5F-4968-B75B-5B3DBDE80B9A:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Guru.com
+ORG:Guru.com;
+item1.EMAIL;type=INTERNET;type=pref:privatedb@guru.com
+item1.X-ABLabel:Job Notification
+X-ABShowAs:COMPANY
+X-ABUID:E3DB734F-62F8-4FD2-99AC-78D080260D50:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:iTunes Store
+ORG:iTunes Store;
+item1.EMAIL;type=INTERNET;type=pref:do_not_reply@itunes.com
+item1.X-ABLabel:_$!<Other>!$_
+X-ABShowAs:COMPANY
+X-ABUID:C73E4E53-BE83-44DC-A9F3-0E87C4576FF8:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Mint
+ORG:Mint;
+EMAIL;type=INTERNET;type=pref:team@mint.com
+X-ABShowAs:COMPANY
+X-ABUID:A79E2CD9-F2B3-4C62-B58A-FA27689F5E17:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:PayPal
+ORG:PayPal;
+EMAIL;type=INTERNET;type=pref:service@paypal.com
+X-ABShowAs:COMPANY
+X-ABUID:30A94645-EF86-4008-9862-3E844AFC8ABE:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:Steam
+ORG:Steam;
+EMAIL;type=INTERNET;type=pref:noreply@steampowered.com
+X-ABShowAs:COMPANY
+X-ABUID:81621EE8-7C6B-4D38-9D1A-A1566CC381BD:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:;;;;
+FN:YouTube
+ORG:YouTube;
+item1.EMAIL;type=INTERNET;type=pref:noreply@youtube.com
+item1.X-ABLabel:_$!<Other>!$_
+X-ABShowAs:COMPANY
+X-ABUID:777A0001-2415-452B-BA69-CA7B915B6189:ABPerson
+END:VCARD
