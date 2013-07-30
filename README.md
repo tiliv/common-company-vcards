@@ -19,6 +19,7 @@ The images in the vcards are a work in progress.  Where a company has an officia
 * GitHub
 * Guru.com
 * iTunes Store
+* Jimmy John's
 * Mint
 * PayPal
 * Steam
